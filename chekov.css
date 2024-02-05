@@ -1,0 +1,21 @@
+.speech{
+    font-size: medium;
+    font-family: 'Times New Roman';
+    color: black;
+}
+.direction{
+    font-size: small;
+    font-family: Arial;
+    color: black;
+    background-color:lemonchiffon;
+}
+.direction:hover{
+    background-color: lightslategrey;
+    color: brown;
+}
+.MARINA{
+    color: darkblue;
+}
+.ASTROFF{
+    color: chartreuse;
+}
