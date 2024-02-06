@@ -32,3 +32,14 @@ table,th,td{
     padding: 2px;
     margin: 2px;
 }
+.MARINA:hover{
+    text-shadow: 1px 1px 4px rgb(220, 175, 175);
+}
+.ASTROFF:hover{
+    text-shadow: 1px 1px 4px rgb(137, 203, 191) ;
+}
+.VOITSKI:hover{
+    text-shadow: 1px 1px 4px red;
+}
+
+
