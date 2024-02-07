@@ -1,3 +1,6 @@
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
+
 .speech{
     font-style:normal 5px ;
     font-family: 'Times New Roman';
@@ -41,5 +44,41 @@ table,th,td{
 .VOITSKI:hover{
     text-shadow: 1px 1px 4px red;
 }
+.navbar{
+    background-color: antiquewhite;
+    color: beige;
+    text-align:justify;
+    padding: 8px;
+    height: 150px;
+    width: 100px;
+    display: contents;
+    justify-content: space-around;
+}
+.navbar:hover{
+    color: chartreuse;
+}
+.image{
+    height: 275px;
+    width: 165px;
+}
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  
+  }
+  ul.navbar-horizontal li {
+    float:left;
+    color:#000;
+    background-color:beige;
+  } 
+  ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+  }
+  ul.navbar-horizontal a:hover {  
+    background-color:blue;
+    color:white;
+  }
 
 
